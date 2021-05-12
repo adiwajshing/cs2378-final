@@ -101,7 +101,8 @@ export default () => {
             Adhiraj Singh &#38; Garvit Kharbanda
           </h4>
           <div>
-          <a href='https://github.com/adiwajshing/cs2378-final' target='_blank'>GitHub</a>
+            <a href='https://github.com/adiwajshing/cs2378-final' target='_blank'>GitHub</a> |
+            <a href='https://github.com/adiwajshing/cs2378-final/blob/master/variables.pdf' target='_blank'>Explanation</a>
           </div>
         </div>
 
