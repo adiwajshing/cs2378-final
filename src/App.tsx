@@ -100,6 +100,9 @@ export default () => {
           <h4 className="color-secondary">
             Adhiraj Singh &#38; Garvit Kharbanda
           </h4>
+          <div>
+          <a href='https://github.com/adiwajshing/cs2378-final' target='_blank'>GitHub</a>
+          </div>
         </div>
 
         <div className='text-right color-secondary'>
