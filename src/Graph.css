@@ -1,0 +1,5 @@
+.line-graph-container {
+    width: min(95vw, 45rem);
+    height: 20rem;
+    margin-bottom: 4rem;
+}

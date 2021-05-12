@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.color-secondary {
+  color: #6b6b6b;
+}
+.App {
+  margin: 2rem;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  display: flex;
+  justify-content: stretch;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+.flex-def {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.spaced-out {
+  margin: 1rem;
+  width: 100%;
+}
+.spaced-out > * {
+  margin: 1rem;
+}
+.title-input {
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+}
+.title-input .subtitle {
+  font-size: 0.9rem;
+  margin: 0.2rem;
+}
+.title-input > .title {
+  font-size: 1.3rem;
+  margin: 0.3rem;
+}
+.text-right {
+  text-align: right;
+  font-weight: bold;
+  max-width: 20rem;
+}
+.description {
+  font-size: 0.85rem;
+  margin: 0.1rem;
+}
